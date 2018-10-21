@@ -16,6 +16,7 @@ A bit about the UI
 	2.	Have used ReactRouterDOM for navigation and dynamic routing.
 	3.	Used axios as an interface with backend REST Api 
 	4.	And used the 'validator' to create customized FormValidator for user input
+	
 A bit about the REST API
 	1.	I have used SpringBoot to develop REST API for all the CRUD operations. Imlpemented CRUDRespository from the Spring Mongodb API for interaction with database. 
 	2.	Used javax.validation on for user input requests from UI and also validate data requests from HTTP clients like curl, postman.
