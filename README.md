@@ -1,4 +1,4 @@
-### Customer CRUD
+### Customer CRUD application
 
 The above folder structure represents a small application with a RESTful API that interacts with MongoDb database to persist Customer records and is supported by a UI application which consumes the RESTful API. 
 In a nutshell the application will allow the user to perform the following actions either from the GUI or from any http client. 
