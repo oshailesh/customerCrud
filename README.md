@@ -82,9 +82,9 @@ The project is divided into 2 parts
 ## Built With
 
 
-* [STS] (https://spring.io/tools3/sts/all) -  Spring Tool Suite
-* [Maven](https://maven.apache.org/) - Dependency Management
 
+* [STS](https://spring.io/tools3/sts/all) -  Spring Tool Suite
+* [Maven](https://maven.apache.org/) - Dependency Management
 
 
 
@@ -95,7 +95,8 @@ The project is divided into 2 parts
 
 ## License
 
-This project is licensed under the Shailesh Nair - see the [LICENSE.md](LICENSE.md) file for details
+
+This project is licensed under the Shailesh Nair 
 
 ## Acknowledgments
 
