@@ -12,7 +12,6 @@ class Edit extends Component {
       customer: {}	  
     };
   }
-
   componentDidMount() {
     axios.get('http://localhost:8080/customers/'+this.props.match.params.id)
       .then(res => {
