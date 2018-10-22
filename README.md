@@ -10,6 +10,7 @@ In a nutshell the application will allow the user to perform the following actio
 The project is divided into 2 parts 
 	1.	CustomerProj - This contains the server side code for the Spring RESTFul Api which connects to MongoDb database instance 
 	2.	customerui - The UI for the CRUD operations is developed in React.js
+	
 
 ## Getting Started
 
