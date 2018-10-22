@@ -30,7 +30,6 @@ The project is divided into 2 parts
 	The REST API application is currently configured to connect to MongoDb on localhost:27017/test. The details are in the application.properties.
 	In order for the application to run we need to have a MongoDb instance running.
 
-
 ### Installing REST
 
 	To execute the REST API you would need to checkout the "CustomerProj" 
